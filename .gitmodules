@@ -1,0 +1,3 @@
+[submodule "src/calculadoraClass"]
+	path = src/calculadoraClass
+	url = https://github.com/EmmanuelJYokoyama/calculadoraClass
